@@ -1,2 +1,1 @@
-input('Enter your Name:')
-print('Welcome Muna')
+'Hello '+input('enter your name: ')

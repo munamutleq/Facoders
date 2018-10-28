@@ -6,3 +6,6 @@
 
 * __week-2:__
 [Creating Markdown File]
+
+* __week-3:__
+[introduction to python]
